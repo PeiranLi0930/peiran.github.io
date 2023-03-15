@@ -11,7 +11,7 @@ title                    : "Peiran's Space"
 title_separator          : "-"
 name                     : &name "Peiran Li"
 description              : &description "personal description"
-url                      : https://peiran.github.io/
+url                      : https://peiran.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PeiranLi0930/peiran.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/PeiranLi0930"
+  github           : "PeiranLi0930"
   google_plus      :
   keybase          :
   instagram        :
